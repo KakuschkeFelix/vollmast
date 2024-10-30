@@ -1,0 +1,1 @@
+export type VollmastErrorCause = 'VM_FLAG_NOT_FOUND' | 'VM_INTERNAL_ERROR';
